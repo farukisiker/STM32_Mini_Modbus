@@ -1,0 +1,5 @@
+../Core/Src/modbus.c:17:17:ModRTU_CRC	32	static
+../Core/Src/modbus.c:39:6:modbus_slave_init	8	static
+../Core/Src/modbus.c:44:16:modbus_create_head	24	static
+../Core/Src/modbus.c:58:13:modbus_transmit	24	static
+../Core/Src/modbus.c:72:6:modbus_slave_loop	16	static
